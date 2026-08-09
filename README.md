@@ -144,31 +144,34 @@ Timestamp,Temperature
 VISTA/
 │
 ├── README.md
-├── requirements.txt
-├── LICENSE
-│
-├── src/
-│   ├── camera.py
-│   ├── registration.py
-│   ├── preprocessing.py
-│   ├── mercury_detection.py
-│   ├── calibration.py
-│   ├── temperature.py
-│   └── data_logging.py
-│
-├── data/
-│   └── sample/
-│
-├── results/
-│   └── sample_outputs/
 │
 ├── docs/
-│   ├── flowchart.png
-│   ├── system_architecture.png
-│   └── project_report.pdf
+│   ├── functional_flowchart.png
+│   └── pipeline.png
 │
-└── tests/
-    └── test_detection.py
+├── images/
+│   ├── detection_result1.png
+│   ├── detection_result2.png
+│   ├── detection_result3.png
+│   ├── input_sample.jpg
+│   ├── real-time_temperature_monitoring.png
+│   └── roi_example.png
+│
+├── report/
+│   └── Project_Report.docx
+│
+├── setup/
+│   ├── camera_setup.jpeg
+│   ├── experimental_setup.jpeg
+│   └── led_setup.jpeg
+│
+├── src/
+│   └── final_stevenson_code.py
+│
+└── text_docs/
+    ├── failures_of_stevenson.docx
+    ├── images_stevenson.docx
+    └── success_of_stevenson.docx
 ```
 
 > Update the structure above to exactly match the files that are actually present in the repository.
