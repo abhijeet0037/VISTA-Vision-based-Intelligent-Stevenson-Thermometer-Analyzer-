@@ -262,15 +262,10 @@ The recommended README should include example images showing the processing stag
 Detected Temperature: XX.X °C
 ```
 
-These visual results make the repository much easier to understand and demonstrate that the system is actually working.
 
 ---
 
 ## 📊 Performance Evaluation
-
-The system should be evaluated using experimentally measured temperature values.
-
-Recommended metrics:
 
 | Metric                   |    Value |
 | ------------------------ | -------: |
